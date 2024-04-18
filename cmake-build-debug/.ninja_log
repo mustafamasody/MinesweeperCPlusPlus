@@ -1,0 +1,4 @@
+# ninja log v5
+0	89	1713460204752051382	build.ninja	801684ce916bc9eb
+5	757	1713392263624271340	CMakeFiles/Project3Minesweeper.dir/main.cpp.o	1ec59b28838c989d
+757	794	1713392263664375766	Project3Minesweeper	7eea9b61ea1a50a9
